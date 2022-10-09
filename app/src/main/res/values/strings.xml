@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMSApp</string>
+    <string name="msg_splash_screen">sms app</string>
+</resources>
